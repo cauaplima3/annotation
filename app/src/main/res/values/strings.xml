@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Annotation</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+
+</resources>

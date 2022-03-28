@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mauve">#FAA6FF</color>
+    <color name="royalPurple">#7353BA</color>
+    <color name="russianViolet">#2F195F</color>
+    <color name="xiketic">#0F1020</color>
+    <color name="pinkLavender">#EFC3F5</color>
+    <color name="preto">#FF000000</color>
+    <color name="branco">#FFFFFFFF</color>
+</resources>
